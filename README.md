@@ -1,5 +1,5 @@
 # Alpha
-
+some change
 Java Placement Course
 
 ## Message for all ALPHAITs <3
